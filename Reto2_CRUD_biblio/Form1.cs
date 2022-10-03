@@ -42,6 +42,7 @@ namespace Reto2_CRUD_biblio
         void limpiar()
         {
             txtautor.Text = "";
+            txtid.Text = "";
             txtbuscar.Text = "";
             txtcantidad.Text = "";
             txteditorial.Text = "";
@@ -168,6 +169,11 @@ namespace Reto2_CRUD_biblio
             {
                 dataGridView1.DataSource = objneg.N_listar_libros();
             }
+        }
+
+        private void txtid_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }
