@@ -24,6 +24,7 @@ Reto 2 CRUD biblioteca usando Visual Studio y SQL Server
 
 
 <H2>ELIMINAR
+  
   ![image](https://user-images.githubusercontent.com/79425510/193939568-998b05c3-e148-4501-959d-fd20b3425f02.png)
   
 ![image](https://user-images.githubusercontent.com/79425510/193939588-c5c92d59-0684-48a9-b9c9-a0e96d1c3157.png)
